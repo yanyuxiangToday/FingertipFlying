@@ -27,6 +27,7 @@ Tips: 按住 `Command` 键不松，鼠标点击菜单栏图标向右拖动到可
 - [ ] 去除 Dock 上的图标显示
 - [ ] 在本地保存日志，记录每天的次数以及高频按键
 - [ ] 自动化打包问题，即不需要手动拷贝依赖
+- [ ] 看状态曲线
 
 ## About
 Keep typing, create anything you want.
